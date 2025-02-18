@@ -10,7 +10,7 @@ https://learn.microsoft.com/en-us/credentials/certifications/practice-assessment
 
 Above 90
 
-## Microsoft Azure Data Fundamentals: Explore core data concepts
+## 1 Microsoft Azure Data Fundamentals: Explore core data concepts
 
 ### Explore core data concepts
 
@@ -50,19 +50,19 @@ Knowledge check
 
 ### Explore data roles and service
 
-## Microsoft Azure Data Fundamentals: Explore relational data in Azure
+## 2 Microsoft Azure Data Fundamentals: Explore relational data in Azure
 
 ### Explore fundamental relational data concepts
 
 ### Explore relational database services in Azure
 
-## Microsoft Azure Data Fundamentals: Explore non-relational data in Azure
+## 3 Microsoft Azure Data Fundamentals: Explore non-relational data in Azure
 
 ### Explore Azure Storage for non-relational data
 
 ### Explore fundamentals of Azure Cosmos DB
 
-## Microsoft Azure Data Fundamentals: Explore data analytics in Azure
+## 3 Microsoft Azure Data Fundamentals: Explore data analytics in Azure
 
 ### Explore fundamentals of large-scale analytics
 
