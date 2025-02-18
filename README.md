@@ -39,6 +39,22 @@ Data stores (There are two broad categories of data store in common use:)
 
 Explore file storage
 
+* Local HD, usb or shared file storage system
+
+Delimited text files
+
+* Data is often stored in plain text format with specific field delimiters and row terminators. The most common format for delimited data is comma-separated values (CSV) in which fields are separated by commas, and rows are terminated by a carriage return / new line.
+
+```csv
+FirstName,LastName,Email
+Joe,Jones,joe@litware.com
+Samir,Nadoy,samir@northwind.com
+
+```
+
+
+
+
 Explore databases
 
 Explore transactional data processing
