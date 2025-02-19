@@ -4,6 +4,11 @@
 
 https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification&source=learn
 
+
+## DP-900 Data Fundamentals Study Cram v2
+
+https://www.youtube.com/watch?v=0gtpasITVnk
+
 ## Practice Assessments for Microsoft Certifications
 
 https://learn.microsoft.com/en-us/credentials/certifications/practice-assessments-for-microsoft-certifications
